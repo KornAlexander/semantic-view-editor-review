@@ -1,6 +1,6 @@
 # Semantic View Editor review
 
-Compiled-only public review build, version 0.0.7.
+Compiled-only public review build, version 0.0.8.
 
 Open https://kornalexander.github.io/semantic-view-editor-review/ .
 
